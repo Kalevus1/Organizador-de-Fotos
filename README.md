@@ -61,9 +61,3 @@ O simplemente doble clic en **`instalar.bat`**. Luego abre con **`Organizar foto
 - **Pillow** + **pillow-heif** para leer imágenes (incluidos formatos de Apple).
 - **NumPy** para convertir las imágenes a la pantalla.
 - Las carpetas destino y el modo Copiar/Mover se guardan con `QSettings`.
-
-## 💡 Ideas para mejorar
-
-- Tira de miniaturas (filmstrip) para ver el contexto.
-- Renombrar la foto antes de moverla.
-- Crear una carpeta destino nueva desde el propio programa.
