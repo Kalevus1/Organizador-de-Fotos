@@ -1,6 +1,6 @@
 # 🗂️ Organizador de Fotos
 
-**Día 3** · Clasifica tus fotos rápidamente: ves cada una en grande y decides, con un
+Clasifica tus fotos rápidamente: ves cada una en grande y decides, con un
 clic, a qué carpeta enviarla (copiar o mover) o si la saltas y pasas a la siguiente.
 
 Se acabó el ir y venir en el Explorador: abrir, buscar, copiar, cambiar de carpeta, pegar.
