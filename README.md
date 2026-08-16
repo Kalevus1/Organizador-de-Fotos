@@ -52,9 +52,6 @@ py -3.12 -m venv .venv
 
 O simplemente doble clic en **`instalar.bat`**. Luego abre con **`Organizar fotos.bat`**.
 
-> Este proyecto reutiliza el mismo entorno que Face Finder (Día 2) si existe
-> (`..\.venv_face`); si no, crea su propio `.venv` con `instalar.bat`.
-
 ## ⚙️ Tecnología
 
 - **Python 3.12** + **PySide6** (Qt 6) para la interfaz.
