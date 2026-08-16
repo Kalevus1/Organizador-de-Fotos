@@ -1,0 +1,7 @@
+# Librerías necesarias para el Organizador de Fotos (Python 3.12)
+# Instalar con:  pip install -r requirements.txt
+PySide6==6.11.1
+Pillow==12.3.0
+pillow-heif==1.5.0
+numpy==2.5.1
+Send2Trash==2.1.0
